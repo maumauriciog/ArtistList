@@ -1,4 +1,4 @@
-# Artist List
+# 📱 Artist List
 Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, criado para aprender princípios básicos da nova UI toolkit Compose. Tecnologia muito importante para o meu aprendizado...
 
 ## :camera_flash: Screenshots
@@ -15,6 +15,9 @@ Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de prog
   - Spacer
   - LazyColumn
   - ComposePreview
+ 
+## 🎓 Author
+Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog))
 
 ## License
 ```
