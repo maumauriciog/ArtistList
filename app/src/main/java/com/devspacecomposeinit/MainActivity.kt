@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Teste("")
+                    Teste("da silva")
                 }
             }
         }
@@ -32,7 +32,8 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Teste (name: String, modifier: Modifier = Modifier){
     Text(
-        text = "João")
+        text = "João $name",
+        modifier = modifier)
 }
 
 @Preview(showBackground = true)

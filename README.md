@@ -1,3 +1,4 @@
+
 # 📱 Artist List
 Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, criado para aprender princípios básicos da nova UI toolkit Compose. Tecnologia muito importante para o meu aprendizado...
 
