@@ -57,7 +57,9 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ArtistCard(artist: Artist) {
-    Column {
+    Column(
+        modifier = Modifier.padding(8.dp)
+    ) {
         Row(verticalAlignment = Alignment.CenterVertically) {
             Image(
                 modifier = Modifier
